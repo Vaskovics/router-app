@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/router-app/static/css/main.f70be1da.css",
+    "main.js": "/router-app/static/js/main.0f1ed000.js",
+    "index.html": "/router-app/index.html",
+    "main.f70be1da.css.map": "/router-app/static/css/main.f70be1da.css.map",
+    "main.0f1ed000.js.map": "/router-app/static/js/main.0f1ed000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70be1da.css",
+    "static/js/main.0f1ed000.js"
+  ]
+}
